@@ -1,0 +1,1 @@
+$(function(){$(document).on("click",".tool",function(){var n=$(this).find("a").attr("href");window.location=n})});
